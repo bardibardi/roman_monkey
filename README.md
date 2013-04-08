@@ -74,8 +74,6 @@ Try the software in irb:
 
     irb prompt> load 'spec/support/roman_test.rb'
 
-The author uses DbVisualizer 9.0.5 and irb to try out the space cadets.
-
 Note, to find the gem installation directory:
 
     irb prompt> require 'roman_monkey'
